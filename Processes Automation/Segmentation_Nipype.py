@@ -2,9 +2,6 @@
 """
 Created on Fri Mar  4 13:10:10 2016
 
-@author: Laura Nuñez
-@eddited by: Mario Gil
-
 """
 #Import needed interfaces------------------------------------------------------
 import nipype.interfaces.io as nio           # nipype i/o routines
