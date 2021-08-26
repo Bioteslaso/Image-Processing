@@ -24,7 +24,6 @@ function Run_DTI_Pipeline_AGESII(Dir)
 %     spm12 Toolbox added to the MATLAB path
 %     ANTS installed in the system
 %__________________________________________________
-% Authors: Javi Santonja, UADO, HUGGM, 2018
 tic
 if nargin < 1
     Dir = '/Users/laimbio/Documents/INVESTIGACION/AGES_II/agesII_DTI';
