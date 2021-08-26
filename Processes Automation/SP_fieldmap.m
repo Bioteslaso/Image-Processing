@@ -1,5 +1,4 @@
 % Date : 04 - Nov - 2016
-% Author : Mario Gil 
 %
 %
 %% Ibicializar el entorno 
